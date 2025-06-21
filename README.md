@@ -8,4 +8,3 @@ Insira as o valor em porcentagem do seu rendimento.
 
 app retornarar os valores após a inserção dos dados.
 avera graficos para uma melhor vizualização.
-
